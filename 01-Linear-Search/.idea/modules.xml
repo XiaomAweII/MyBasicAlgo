@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01-Linear-Search.iml" filepath="$PROJECT_DIR$/.idea/01-Linear-Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-Linear-Search/1-Linear-Search.iml" filepath="$PROJECT_DIR$/1-Linear-Search/1-Linear-Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-Using-Generic/2-Using-Generic.iml" filepath="$PROJECT_DIR$/2-Using-Generic/2-Using-Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-Using-Custom-Class/3-Using-Custom-Class.iml" filepath="$PROJECT_DIR$/3-Using-Custom-Class/3-Using-Custom-Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-Test-Performance/4-Test-Performance.iml" filepath="$PROJECT_DIR$/4-Test-Performance/4-Test-Performance.iml" />
+    </modules>
+  </component>
+</project>
