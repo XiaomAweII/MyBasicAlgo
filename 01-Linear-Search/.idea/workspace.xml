@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74b4bf19-e77d-4366-ba40-c7141f96e22f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1-Linear-Search/1-Linear-Search.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Test-Performance/src/ArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/4-Test-Performance/src/ArrayGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Test-Performance/src/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/4-Test-Performance/src/LinearSearch.java" afterDir="false" />
-    </list>
+    <list default="true" id="74b4bf19-e77d-4366-ba40-c7141f96e22f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735655900244</updated>
       <workItem from="1735655901263" duration="545000" />
-      <workItem from="1736080102761" duration="5954000" />
+      <workItem from="1736080102761" duration="6119000" />
     </task>
     <servers />
   </component>
